@@ -1,0 +1,2 @@
+# combinationsCalculator
+Interactive combinations calculator
